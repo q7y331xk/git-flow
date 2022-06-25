@@ -4,6 +4,7 @@ const About: NextPage = () => {
     
   return <>
     About
+    다만들엇다!
   </>
 }
 
